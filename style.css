@@ -1,0 +1,41 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.cardContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.cardContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px black solid;
+    height: 300px;
+    width: 500px;
+   
+}
+
+#quote{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+#author{
+    text-align: right;
+}
+
+#nextButton{
+    margin-left: 250px;
+}
+
+
+
